@@ -1,0 +1,8 @@
+*****Add just before closing body tag*****
+
+
+<script>
+$(document).ready(function(){
+	$('.modal').ws_modal_box();
+});
+</script>
